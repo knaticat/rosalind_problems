@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
-This is a temporary script file.
+author: biotik
 """
 def SeqCounter(Seq):
     a,g,t,c=0,0,0,0
